@@ -23,7 +23,7 @@
     >
         <div class="mb-3">
             <div class="text-center pb-5 display-4">
-                <img src="https://static.wikia.nocookie.net/virtualyoutuber/images/c/c9/Sakura_Miko_2019_Portrait.jpg" class="rounded mx-auto d-block">
+                <img src="https://cdn.icon-icons.com/icons2/1369/PNG/512/-person_90382.png" class="rounded mx-auto d-block">
             </div>
             <?php if(isset($_GET['error'])){ ?>
             <div class="alert alert-danger" role="alert">
